@@ -8,7 +8,7 @@
 **RIFT Financial Forensics Engine: Money Muling Ring Detection**
 
 ## Live Demo URL
-[Live Demo Placeholder](https://money-muling-detector.demo-placeholder.com)
+[Live Demo]([https://money-muling-detector.demo-placeholder.com](https://financial-system-x8xe.onrender.com/))
 
 ## Demo Video
 ![Demo Video](assets/demo.mp4)
